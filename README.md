@@ -1,3 +1,5 @@
+<img align='right' src='' width='200'>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO!+here++zenus+10+++*meow;CHEERS+^^&color=443d31&background=F7F6F4&vCenter=true&font="Unbounded")](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenus10&show_icons=true&bg_color=F7F6F4&title_color=443d31&center=true&text_color=443d31&icon_color=E1C2AF&font="Unbounded")
