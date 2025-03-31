@@ -1,4 +1,4 @@
-<img align='right' src='img-1743413014185008wYGC3ly1hzur0tdl7lg301o01owfh.gif' width='200'>
+<img align='right' src='img-1743413479341008f1uBAgy1hy46ylqht5g305k05kn3m.gif' width='255'>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO!+here++zenus+10+++*meow;CHEERS+^^&color=443d31&background=F7F6F4&vCenter=true&font="Unbounded")](https://git.io/typing-svg)
 
