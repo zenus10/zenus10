@@ -9,15 +9,10 @@ I'm a **PM focused on AI products.**
 
 I'm an undergraduate student at the School of **Software Engineering, UESTC**（University of Electronic Science and Technology of China）, graduating in **2028**.
 
-Previously worked on **JD.com**（focusing on model strategy&evaluation, AI conversation style&persona design）
-
-Currently working on **ByteDance-Tiktok**.（focusing on workflow-Agent orchestration, AI Native product development&interaction design）
+Previously worked on **JD.com** and **ByteDance-Tiktok**（focusing on AI Native product）
 
 I also lead the PM & Design track for the 2024 and 2025 cohorts at **[CNSS Studio](https://github.com/CNSS)**.
 
-I enjoy building small tools and websites in my spare time.
-
-Beyond utility, I care a lot about the emotion, expression, and warmth behind a product.
 
 I'm open to internships, collaborations, and conversations around AI products, design, and productivity tools.
 
