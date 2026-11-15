@@ -13,6 +13,6 @@
 
 🤝 Open to internships, collaborations, and conversations around AI products, design, and productivity tools
 
-📝 **Blog:** [zenus10.com](https://zenus10.com) &nbsp;·&nbsp; ✉️ **Email:** [630995120@qq.com](mailto:630995120@qq.com)
+ **Blog:** [zenus10.com](https://zenus10.com) &nbsp;·&nbsp; **Email:** [630995120@qq.com](mailto:630995120@qq.com)
 
 </div>
